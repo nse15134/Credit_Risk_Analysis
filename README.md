@@ -42,3 +42,5 @@ The balanced accuracy score is 78%
 The balanced accuracy score is 93%
 
 ## Summary
+. 
+The Easy Ensemble Classifier has an accuracy score of 93%.  The precision score is very low for all of the models, which can lead to showing high risk across all models and would start to create issues with any methodology the bank starts to implement.
