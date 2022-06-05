@@ -25,10 +25,14 @@ Balanced Accuracy score is 63%
 ### Undersampling
 ![image](https://user-images.githubusercontent.com/98061420/172035591-d032f14d-37a3-408c-9748-badd9aad982c.png)
 
+The balanced accuracy score is 65%
+
 
 ### Random Forest Classifier 
 
 ![image](https://user-images.githubusercontent.com/98061420/172035599-fa0b1c45-9ef4-40da-8987-a9f1d6b53463.png)
+
+The balanced accuracy score is 78%
 
 ### Easy Ensemble Classifier
 
