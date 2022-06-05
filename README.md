@@ -11,13 +11,15 @@ The scope of this project is to use Python and Jupyter to build and deploy sever
 ![image](https://user-images.githubusercontent.com/98061420/172035584-44fd657e-66ff-4eee-b010-435b877eabc3.png)
 
 
-The balanced accuracy score is 65
+The balanced accuracy score is 65%
 
 
 
 ### SMOTEENN
 
 ![image](https://user-images.githubusercontent.com/98061420/172035638-dd30fdf8-788a-41d0-9879-1d02bdc92bcb.png)
+
+Balanced Accuracy score is 63%
 
 
 ### Undersampling
