@@ -32,6 +32,8 @@ The balanced accuracy score is 65%
 
 ![image](https://user-images.githubusercontent.com/98061420/172035599-fa0b1c45-9ef4-40da-8987-a9f1d6b53463.png)
 
+The balanced accuracy score is 93%
+
 The balanced accuracy score is 78%
 
 ### Easy Ensemble Classifier
